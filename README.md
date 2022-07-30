@@ -1,2 +1,1 @@
-# python_test
-python practice files
+i am using this folder for keeping my python files and learning project files
